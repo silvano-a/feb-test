@@ -66,4 +66,4 @@ node testValidatorExceptions
 
 het script is geschreven en getest met `node v12.1.0`.  
 
-Bij vragen hoor ik het graag. 
+Bij vragen hoor ik het graag.

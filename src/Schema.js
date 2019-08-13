@@ -7,7 +7,7 @@ class Schema {
         'number',
         'array',
         'object',
-        'boolean'
+        'boolean',
     ];
 
     constructor(schema) {

@@ -46,7 +46,7 @@ class Validator
     _validateSingleValue(value, requiredType, result) {
         if ((typeof value === requiredType) === false) {
             result.isValid = false
-        };
+        }
     }
 }
 
